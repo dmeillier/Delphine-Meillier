@@ -2,10 +2,8 @@
 ![Delphine-Meillier-11-07-2023 (1)](https://github.com/dmeillier/Delphine-Meillier/assets/133671315/2edc78fc-17fa-4427-9a22-e0a28a0ae01d)
 
 
-**Bonjour,
-Je suis actuellement en formation développeur web et web mobile suite à une reconversion professionnelle.**
-**Désireuse d'apprendre, j'aime également relever des défis**
-
+**Hello, I am currently undergoing training as a web and mobile web developer as part of a career change.** 
+**Eager to learn, I also enjoy taking on challenges.**
 
 <br>
 
