@@ -3,6 +3,7 @@
 
 
 **Hello, I am currently undergoing training as a web and mobile web developer as part of a career change.** 
+
 **Eager to learn, I also enjoy taking on challenges.**
 
 <br>
